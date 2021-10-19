@@ -1,0 +1,33 @@
+body{
+    background-color: burlywood;
+    
+}
+
+
+img{
+    
+    margin-top: 100px;
+    
+    background-color: floralwhite;
+}
+button{
+    border: 1px solid #700;
+    padding: 15px;
+    color: #fff;
+    background: dimgrey;
+    border-radius: 10px;
+    transition: all 0.5s;
+    font-size: 10px;
+    
+
+}
+button:hover{
+    border: 1px solid #700;
+    padding: 15px;
+    color: dimgrey;
+    background:#fff ;
+    border-radius: 10px;
+    transition: all 0.5s;
+    font-size: 10px;
+
+}
